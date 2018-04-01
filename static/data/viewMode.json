@@ -1,0 +1,8 @@
+{
+    "/dynamic":[],
+    "/publish1":[{ "pattern": "add", "title": "人员发布" }],
+    "/publish2":[{ "pattern": "add", "title": "事件发布" }],
+    "/market":[{ "pattern": "add", "title": "搜索所有" }],
+    "/installation1":[{ "pattern": "add", "title": "用户增加" }],
+    "/installation2":[{ "pattern": "add", "title": "设置流程" }]
+}
